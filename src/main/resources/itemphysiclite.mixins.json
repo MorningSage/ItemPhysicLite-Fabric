@@ -1,12 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "morningsage.itemphysiclite.mixin",
   "compatibilityLevel": "JAVA_8",
-  "mixins": [
-  ],
   "client": [
-    "ExampleMixin"
+    "MinecraftClientMixin",
+    "accessors.EntityAccessor",
+    "ItemEntityRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1

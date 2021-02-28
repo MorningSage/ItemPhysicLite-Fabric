@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# ItemPhysicLite - Fabric
 
-## Setup
+Enhanced item animation.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This is simply a port of the Forge mod by the same name with a few refactorings.  All credit goes to CreativeMD for the original code.
